@@ -1,0 +1,4 @@
+Port,Service,Banner,Risk
+135,epmap,No banner,⚠️ RPC (Windows service - attack surface)
+445,microsoft-ds,No banner,⚠️ SMB (file sharing - possible vulnerability)
+623,unknown,No banner,
