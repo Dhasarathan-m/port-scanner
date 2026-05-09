@@ -1,0 +1,4 @@
+Port,Service,Banner,Risk
+135,epmap,No banner,
+445,microsoft-ds,No banner,⚠️ SMB
+623,unknown,No banner,
